@@ -287,3 +287,5 @@ kubia-dc-4-rkn2j   1/1       Running   0          56s
 </pre>
 
 * We're back on the `7.0` image
+
+* Also find attached a screencast attached doing the same with the ui: <https://github.com/dmoessne/dc-playground/blob/master/rolling-back-deployments.webm>
